@@ -1,4 +1,4 @@
-# pygame.midi
+# ppci.c2python
 
 
-midi python game
+c code into python code converter
