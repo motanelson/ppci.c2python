@@ -1,4 +1,4 @@
-# ppci.c2python
+# ppci.c3c2wasm
 
 
-c code into python code converter
+c3c code into wasm code converter
